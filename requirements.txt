@@ -1,0 +1,4 @@
+PyQt5>=5.15
+requests>=2.25
+speedtest-cli>=2.1.3
+python-whois>=0.7.3
