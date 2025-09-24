@@ -59,8 +59,8 @@ pip install -r requirements.txt
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/network-tools-gui.git
-cd network-tools-gui/tools
+git clone https://github.com/Kyzosan/SPEED-TEST
+cd SPEED-TEST
 ```
 
 2. **Install dependencies**:
